@@ -3,14 +3,14 @@
   "displayName": "cadwork-python-runner",
   "description": "Run Python code in cadwork from VS Code",
   "version": "0.0.1",
-  "publisher": "Cadwork Holz AG",
+  "publisher": "MichaelBrunner-cadwork",
   "repository": {
     "url": "https://github.com/Brunner246/cadwork-python-runner"
   },
   "author": {
     "name": "Michael Brunner"
   },
-  "license": "SEE LICENSE IN LICENSE.txt",
+  "license": "SEE LICENSE IN LICENSE",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.97.0"
